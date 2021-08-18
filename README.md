@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1444492417251-9c84a5fa18e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&h=300&q=80"/>
+<img src="https://violetguos.github.io/static/1662542f83305fcd5ce9836d3fffb1e3/2c036/cover.jpg"/>
  
 ### Hi there 👋, I'm Mirosh Kavinda. I'm a  Fullstack Web  developer and technical writer. <br>
  
