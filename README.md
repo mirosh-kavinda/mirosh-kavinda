@@ -1,4 +1,4 @@
-<img src="https://violetguos.github.io/static/1662542f83305fcd5ce9836d3fffb1e3/2c036/cover.jpg"/>
+<img src="#"/>
  
 ### Hi there 👋, I'm Mirosh Kavinda. I'm a  Fullstack Web  developer and technical writer. <br>
  
