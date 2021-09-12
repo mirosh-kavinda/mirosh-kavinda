@@ -20,18 +20,18 @@ Undergraduate
 Software Engineering
 
 Interested in 
-        🎵 Music
-        🕵️ Philosophy
-        💻 Technology
-        🚀 Entrepreneurship
-        📢 Languages << English ||සිංහල || 한국어 >>
-        💀 Ethical  hacking
-         🏑Field Hockey
-
+        🎵 Music<br>
+        🕵️ Philosophy<br>
+        💻 Technology<br>
+        🚀 Entrepreneurship<br>
+        📢 Languages << English ||සිංහල || 한국어 >><br>
+        💀 Ethical  hacking<br>
+         🏑Field Hockey<br>
+<br>
 Hobbies
-        👩‍💻 Full Stack web developing
-        🤹️ Gaming
-        🤳 App development
+        👩‍💻 Full Stack web developing<br>
+        🤹️ Gaming<br>
+        🤳 App development<br>
 
 
 
