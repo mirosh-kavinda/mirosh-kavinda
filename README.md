@@ -1,38 +1,39 @@
-<img src="#"/>
+<!-- <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--EfyAnnq9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/htwiz3w6sytp53mrml7g.jpg" style=" top:0; left:0; width:100%;  min-width: 100%;  max-width: 100%; position: absolute; " /> -->
  
 ### Hi there 👋, I'm Mirosh Kavinda. I'm a  Fullstack Web  developer. <br>
- 
-Bio link:  [Mirosh_kaivnda Bio](https://mirosh.bio.link/)
  
 🔭 *Currently working on*:  Video Blog that teach all who new-to technologies. Here are some examples of what I have been writing on: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [kali_linux-app on windows 10](https://www.youtube.com/watch?v=erliklZUn9g)<br>
 
 <br>
 🌱 *Currently Learning*: UX  and dart <br>
-🤔 *Looking for help*: I'm looking for help with trying to find my first software engineering internship .<br>
-💬 Ask me about: Full-stack web developing , creating a website for you, or assistance with an application you are working on. <br>
+🤔 *Looking for help*: I'm looking for help with trying to find my first internship in  software engineering field.<br>
+💬 Ask me about: Full-stack web developing , creating a website for you, or create an application for you. <br>
 📫 How to reach me: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](kavindahgm@gmail.com)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/miroshkavinda)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/mirosh-kavinda-988042159/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email]    : (kavindahgm@gmail.com)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter]  : (https://www.twitter.com/miroshkavinda)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn] : (https://www.linkedin.com/in/mirosh-kavinda-988042159/)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [whatsapp] : (https://mirosh.bio.link)<br> 
  
-😄 Pronouns: She/Her/Hers <br>
-⚡ Fun facts:<br>
-<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :musical_note:  In my previous career I was a flutist and flute teacher. You can hear me play here: []<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :fallen_leaf: My favorite season is fall :smile: <br> -->
+Undergraduate
+⏩Learning is a Lifelong Process🕵️
+Software Engineering
+
+Interested in 
+        🎵 Music
+        🕵️ Philosophy
+        💻 Technology
+        🚀 Entrepreneurship
+        📢 Languages << English ||සිංහල || 한국어 >>
+        💀 Ethical  hacking
+         🏑Field Hockey
+
+Hobbies
+        👩‍💻 Full Stack web developing
+        🤹️ Gaming
+        🤳 App development
+
+
+
  
- 
-<!--
-**ckopecky/ckopecky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
-Here are some ideas to get you started:
- 
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
