@@ -12,11 +12,9 @@ Software Engineering<br>
 🤔 *Looking for help*: I'm looking for help with trying to find my first internship in  software engineering field.<br>
 💬 Ask me about: Full-stack web developing , creating a website for you, or create an application for you. <br>
 📫 How to reach me: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email]    : (kavindahgm@gmail.com)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter]  : (https://www.twitter.com/miroshkavinda)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn] : (https://www.linkedin.com/in/mirosh-kavinda-988042159/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [whatsapp] : (https://mirosh.bio.link)<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Youtube] : (https://www.youtube.com/channel/UCyh9fiUradbIUVCde2N6oYg)<br> 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Contact Me] : (https://mirosh.bio.link)<br> 
+
  <br>
 Interested in <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎵 Music<br>
