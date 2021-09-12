@@ -1,8 +1,11 @@
 <!-- <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--EfyAnnq9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/htwiz3w6sytp53mrml7g.jpg" style=" top:0; left:0; width:100%;  min-width: 100%;  max-width: 100%; position: absolute; " /> -->
  
 ### Hi there 👋, I'm Mirosh Kavinda. I'm a  Fullstack Web  developer. <br>
- 
-🔭 *Currently working on*:  Video Blog that teach all who new-to technologies. Here are some examples of what I have been writing on: <br>
+ Undergraduate<br>
+⏩Learning is a Lifelong Process🕵️<br>
+Software Engineering<br>
+<br>
+🔭 *Currently working on*:  Youtube channel that teach all , who new-to technologies. Here are some examples of what I have been done : <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [kali_linux-app on windows 10](https://www.youtube.com/watch?v=erliklZUn9g)<br>
 
 <br>
@@ -14,24 +17,20 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter]  : (https://www.twitter.com/miroshkavinda)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn] : (https://www.linkedin.com/in/mirosh-kavinda-988042159/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [whatsapp] : (https://mirosh.bio.link)<br> 
- 
-Undergraduate
-⏩Learning is a Lifelong Process🕵️
-Software Engineering
-
-Interested in 
-        🎵 Music<br>
-        🕵️ Philosophy<br>
-        💻 Technology<br>
-        🚀 Entrepreneurship<br>
-        📢 Languages << English ||සිංහල || 한국어 >><br>
-        💀 Ethical  hacking<br>
-         🏑Field Hockey<br>
+ <br>
+Interested in <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎵 Music<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        🕵️ Philosophy<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        💻 Technology<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        🚀 Entrepreneurship<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        📢 Languages << English ||සිංහල || 한국어 >><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        💀 Ethical  hacking<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         🏑Field Hockey<br>
 <br>
-Hobbies
-        👩‍💻 Full Stack web developing<br>
-        🤹️ Gaming<br>
-        🤳 App development<br>
+Hobbies <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        👩‍💻 Full Stack web developing<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        🤹️ Gaming<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       🤳 App development<br>
 
 
 
