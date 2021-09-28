@@ -8,8 +8,8 @@ Software Engineering<br>
 <!-- 🔭 *Currently working on*:  Youtube channel that teach all , who new-to technologies. Here are some examples of what I have been done : <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [kali_linux-app on windows 10](https://www.youtube.com/watch?v=erliklZUn9g)<br>
  -->
-🌱 *Currently Learning*: User Experience and dart language <br>
-🤔 *Looking for help*: I'm looking for help with trying to find my first internship in  software engineering field.<br>
+🌱  User Experience and dart language <br>
+🤔  I'm looking for help with trying to find my first internship in  software engineering field.<br>
 💬 Ask me about: Full-stack web developing , creating a website for you, or create an application for you. <br>
 📫 How to reach me: <br>
 
