@@ -22,8 +22,8 @@ Interested in <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        💻 Technology<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        🚀 Entrepreneurship<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        📢 Languages << English ||සිංහල || 한국어 >><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        💀 Ethical  hacking<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         🏑Field Hockey<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
 <br>
 Hobbies <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        👩‍💻 Full Stack web developing<br>
