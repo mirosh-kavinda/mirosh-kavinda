@@ -8,10 +8,11 @@ Software Engineering<br> Undergraduate
 📫 How to reach me: <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Contact Me] : (https://mirosh.bio.link)<br> 
- <br>
+[Contact Me] : (https://mirosh.bio.link)
+<br> 
+
 Interested in <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎵 Music<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        🎵 Music<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        🕵️ Philosophy<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        💻 Technology<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        🚀 Entrepreneurship<br>
