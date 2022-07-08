@@ -16,10 +16,8 @@ Interested in <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        🕵️ Philosophy<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        💻 Technology<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        🚀 Entrepreneurship<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        📢 Languages << English ||සිංහල || 한국어 >><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        📢 Languages << English ||සිංහල || 한국어 >><br>    
+
 Hobbies <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        👩‍💻 Full Stack web developing<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        🤹️ Gaming<br>
